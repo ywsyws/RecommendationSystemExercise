@@ -1,0 +1,16 @@
+numpy
+pandas==1.1.2
+matplotlib
+seaborn
+sklearn
+black
+jedi==0.17.2
+tensorflow==2.6.2
+keras
+pytorch-lightning==1.5.0
+torch==1.10.0
+# tqdm==4.40.0
+ipywidgets
+# ipywidgets==7.6.3
+# jupyterlab-widgets==1.0.0
+# widgetsnbextension==3.5.1
