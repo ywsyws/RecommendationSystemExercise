@@ -9,6 +9,9 @@ tensorflow==2.6.2
 keras
 pytorch-lightning==1.5.0
 torch==1.10.0
+haversine
+missingno
+statsmodels
 # tqdm==4.40.0
 ipywidgets
 # ipywidgets==7.6.3
