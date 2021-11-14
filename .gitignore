@@ -8,6 +8,9 @@ model/fitted_models_*.pkl
 ### presentation ###
 *.pptx
 
+### models ###
+.DS_Store
+
 ### private ###
 # note_for_self.md
 
